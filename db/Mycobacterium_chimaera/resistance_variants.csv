@@ -1,1 +1,10 @@
 Gene,Mutation,Drug,Confers,Interaction,Literature
+rrs,n.1388T>A,amikacin,resistance,, 10.1093/jac/dkx021
+rrs,n.1390A>G,amikacin,resistance,, 10.1093/jac/dkx021
+rrs,n.1391C>T,amikacin,resistance,, 10.1093/jac/dkx021
+rrl,n.2266A>C,macrolides,resistance,, 10.1093/jac/dkx021
+rrl,n.2266A>G,macrolides,resistance,, 10.1093/jac/dkx021
+rrl,n.2266A>T,macrolides,resistance,, 10.1093/jac/dkx021
+rrl,n.2267A>C,macrolides,resistance,, 10.1093/jac/dkx021
+rrl,n.2267A>G,macrolides,resistance,, 10.1093/jac/dkx021
+rrl,n.2267A>T,macrolides,resistance,, 10.1093/jac/dkx021
