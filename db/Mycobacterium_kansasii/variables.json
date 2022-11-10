@@ -1,0 +1,5 @@
+{
+    "snpEff_db":"Mycobacterium_chimaera_ZUERICH-1",
+    "species":["Mycobacterium kansasii"],
+    "drugs":["rifampicin","isoniazid","ethambutol","macrolides","streptomycin","fluoroquinolones"]
+}

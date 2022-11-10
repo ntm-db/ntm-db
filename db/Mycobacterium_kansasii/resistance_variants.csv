@@ -1,0 +1,6 @@
+Gene,Mutation,Drug,Confers,Interaction,Literature
+rrl,n.2266A>C,macrolides,resistance,,10.1128/AAC.01788-17
+rpsL,p.Lys42Arg,streptomycin,resistance,,10.1128/AAC.01788-17
+rpoB,p.Ser454Leu,rifampicin,resistance,,10.1128/AAC.45.11.3056-3058.2001
+rpoB,p.His449Tyr,rifampicin,resistance,,10.1128/AAC.45.11.3056-3058.2001
+rpoB,p.Gln436Leu,rifampicin,resistance,,10.1128/AAC.45.11.3056-3058.2001
