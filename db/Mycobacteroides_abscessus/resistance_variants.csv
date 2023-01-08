@@ -17,7 +17,7 @@ rrs,n.1374A>T,amikacin,resistance,,10.1038/s41467-021-25484-9
 rrs,n.1375A>C,amikacin,resistance,,
 rrs,n.1375A>G,amikacin,resistance,,
 rrs,n.1375A>T,amikacin,resistance,,
-MAB_2297,frameshift,macrolides,sensitivity,Override=MAB_2297:functional_gene,10.1038/s41467-021-25484-9
-MAB_2297,large_deletion,macrolides,sensitivity,Override=MAB_2297:functional_gene,10.1038/s41467-021-25484-9
-MAB_2297,p.Trp10Arg,macrolides,sensitivity,Override=MAB_2297:functional_gene,10.1128/JCM.02950-14
-MAB_2297,functional_gene,macrolides,resistance,,10.1038/s41467-021-25484-9
+MAB_2297,frameshift_variant,macrolides,sensitivity,Override=MAB_2297:functional_gene,10.1038/s41467-021-25484-9
+MAB_2297,transcript_ablation,macrolides,sensitivity,Override=MAB_2297:functional_gene,10.1038/s41467-021-25484-9
+MAB_2297,p.Trp10Arg,macrolides,sensitivity,Override=MAB_2297:functionally_normal,10.1128/JCM.02950-14
+MAB_2297,functionally_normal,macrolides,resistance,,10.1038/s41467-021-25484-9
