@@ -1,5 +1,5 @@
 {
     "snpEff_db":"Mycobacterium_abscessus_atcc_19977",
-    "species":["Mycobacterium abscessus subsp. abscessus","Mycobacterium abscessus subsp. bolletii","Mycobacterium abscessus subsp. massiliense"],
+    "species":["Mycobacterium abscessus"],
     "drugs":["macrolides","amikacin"]
 }
