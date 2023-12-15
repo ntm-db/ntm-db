@@ -1,4 +1,4 @@
-Gene,Mutation,Drug,Confers,Interaction,Literature
+Gene,Mutation,Info
 rrl,n.2270A>C,type=drug_resistance;drug=macrolides;literature=10.1038/s41467-021-25484-9
 rrl,n.2270A>G,type=drug_resistance;drug=macrolides;literature=10.1038/s41467-021-25484-9
 rrl,n.2270A>T,type=drug_resistance;drug=macrolides;literature=10.1038/s41467-021-25484-9
