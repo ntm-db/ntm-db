@@ -1,5 +1,5 @@
 {
     "snpEff_db":"Mycobacterium_chimaera_ZUERICH-1",
-    "species":["Mycobacterium intracellulare subsp. chimaera"],
+    "species":"Mycobacterium intracellulare",
     "drugs":["macrolides","amikacin"]
 }
