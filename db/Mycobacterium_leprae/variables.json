@@ -1,6 +1,6 @@
 {
     "db-schema-version": "1.0.0",
     "snpEff_db":"Mycobacterium_leprae_TN",
-    "species":["Mycobacterium leprae"],
+    "species":"Mycobacterium leprae",
     "drugs":["rifampicin","dapsone","fluoroquinolones"]
 }
